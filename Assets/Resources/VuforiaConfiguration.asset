@@ -46,8 +46,7 @@ MonoBehaviour:
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
-    mRecordingPath: C:/Users/CM2024/Desktop/RA - 05 - GRABACIONES/0 6 - GRABACIONES/02
-      - Multi Target.mp4
+    mRecordingPath: C:/Users/CM2024/Desktop/RESERVA/RA - 05 - GRABACIONES/0 6 - GRABACIONES/Vuamarks.mp4
     playModeType: 2
     mSimulatorInputActionAsset: {fileID: -944628639613478452, guid: eae7022f5cfd04e8189b1f372421b225, type: 3}
   webcam:
