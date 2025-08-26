@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/02 - Vuforia - Multi Target.unity
     guid: 966b8e7c20a49f8418ffaab9299e0c8a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/07 - Vuforia - VuMark.unity
     guid: a61b76583cbecb148bdb935d96584cb8
+  - enabled: 1
+    path: Assets/Scenes/08 -  Vuforia - Ground Plane.unity
+    guid: 7adb95a2240aa7f4a85056c6eddacc0f
   m_configObjects: {}
