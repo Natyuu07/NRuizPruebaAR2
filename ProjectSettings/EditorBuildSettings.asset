@@ -5,16 +5,37 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/00 - Inicio.unity
+    guid: 7929f82670e15c944a4f14e2e715f6ee
+  - enabled: 1
     path: Assets/Scenes/01 - Vuforia - Area Target.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/02 - Vuforia - Multi Target.unity
     guid: 966b8e7c20a49f8418ffaab9299e0c8a
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/03 - Vuforia - Cilinder target.unity
+    guid: 696270192cbc20d40a08cf476523c6c7
+  - enabled: 1
+    path: Assets/Scenes/04 - Vuforia - Cloud Recognition.unity
+    guid: e807f0552b25a8b49be3518ccc168868
+  - enabled: 1
+    path: Assets/Scenes/05 - Vuforia  - Barcode.unity
+    guid: 1bb55068c5e74864e94205b181c07cdb
+  - enabled: 1
+    path: Assets/Scenes/06 - Vuforia - Model Target.unity
+    guid: 28b1fab8cb7c0a84f9ea83ce6b5c5541
+  - enabled: 1
     path: Assets/Scenes/07 - Vuforia - VuMark.unity
     guid: a61b76583cbecb148bdb935d96584cb8
   - enabled: 1
     path: Assets/Scenes/08 -  Vuforia - Ground Plane.unity
     guid: 7adb95a2240aa7f4a85056c6eddacc0f
+  - enabled: 1
+    path: Assets/Scenes/09 - Vuforia - Mid  Air.unity
+    guid: 45a2194b3acc1df48a77ac49e11ecf44
+  - enabled: 1
+    path: Assets/Scenes/10 - Vuforia - Area Target ---.unity
+    guid: 383afce7447889946b20b36e187da4b8
   m_configObjects: {}
